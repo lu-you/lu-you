@@ -1,5 +1,5 @@
 ### Hi there 👋
-运维方向的半吊子南宋诗人
+运维专业的半吊子南宋诗人
 <!--
 **lu-you/lu-you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
