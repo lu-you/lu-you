@@ -1,5 +1,5 @@
 ### Hi there 👋
-一枚借用南宋诗人名字的现代不会作诗的运维同学--陆游
+一枚借用南宋诗人名字不会作诗的运维同学--陆游
 <!--
 **lu-you/lu-you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
